@@ -47,7 +47,7 @@ Use the following sample data:
 - Author: `Colleen Hoover`
 - Member ID: `T1`
 - Name: `Taranbir Sandhu`
-- Email: `ts2003@email.com`
+- Email: `ts2003@gmail.com`
 - Loan ID: `L1`
 
 ## How to Test
